@@ -1,5 +1,5 @@
 # Простой веб-сервер с использованием Flask.
-# на Python 
+
  from flask import Flask
 
 app = Flask(__name__).
