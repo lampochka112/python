@@ -1,5 +1,7 @@
 # Пример для работы с данными в таблицах (CSV)
+# csv and python 
 import pandas as pd
+
 
 # Создание DataFrame
 data = {'Name': ['Alice', 'Bob', 'Charlie'], 'Age': [24, 27, 22]}
